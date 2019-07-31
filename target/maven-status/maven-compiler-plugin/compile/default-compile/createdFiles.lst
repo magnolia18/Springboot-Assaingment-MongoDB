@@ -1,0 +1,10 @@
+com/stackroute/muzix/MuzixMongoDBApllication.class
+com/stackroute/muzix/exception/TrackAlreadyExistsException.class
+com/stackroute/muzix/controller/UserControllerAdvice.class
+com/stackroute/muzix/exception/TrackNotFoundException.class
+com/stackroute/muzix/config/WebConfiguration.class
+com/stackroute/muzix/service/TrackServiceImpl.class
+com/stackroute/muzix/service/TrackService.class
+com/stackroute/muzix/repository/TrackRepository.class
+com/stackroute/muzix/controller/TrackController.class
+com/stackroute/muzix/domain/Track.class

@@ -1,0 +1,10 @@
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/repository/TrackRepository.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/controller/UserControllerAdvice.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/exception/TrackNotFoundException.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/exception/TrackAlreadyExistsException.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/service/TrackServiceImpl.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/config/WebConfiguration.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/domain/Track.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/service/TrackService.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/controller/TrackController.java
+/home/magnoliajr/Documents/SpringBootAssignment2/src/main/java/com/stackroute/muzix/MuzixMongoDBApllication.java
